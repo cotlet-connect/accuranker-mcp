@@ -110,6 +110,7 @@ AccuRanker Search Intelligence is AccuRanker's official app in the ChatGPT Plugi
 - [AccuRanker on Cotlet.dev](https://cotlet.dev/integrations/accuranker-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=accuranker&utm_content=find)
 - [PyPI package accuranker-mcp](https://pypi.org/project/accuranker-mcp/)
 - [Odel](https://odel.app/modules/cotlet/accuranker)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/accuranker/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-accuranker-to-ai-agents-guide)
 
 ## Also works with
